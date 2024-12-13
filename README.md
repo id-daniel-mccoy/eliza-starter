@@ -1,5 +1,7 @@
 # Eliza
 
+Use Node v22.12.0
+
 ## Edit the character files
 
 Open `agent/src/character.ts` to modify the default character. Uncomment and edit.
